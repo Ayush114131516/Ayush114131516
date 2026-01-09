@@ -1,5 +1,7 @@
 <h2 align="left">Hi there!👋</h2>
-<p align="left"> Myself Ayush and I'm an AI  enthusiast learning about ML, DL, LLMs ,etc</p>
+<p align="left"> Myself Ayush and I'm an AI  enthusiast learning about ML, DL and LLMs.</p>
+<p>To reach out to me: <a href="mailto:aanmol.connect@gmail.com">aanmol.connect@gmail.com</a></p>
+
 ###
 
 <!-- <div align="center">
@@ -13,19 +15,19 @@
 <img align="right" height="200" src="https://media1.tenor.com/m/LjS7P6R1jJgAAAAC/artificial-intelligence-neural-network.gif"  />
 
 ###
-### 💻 Tech Stack:
+### 💻 My Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
-  <img width="12" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  /> -->
 </div>
 
 ###
