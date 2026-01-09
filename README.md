@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is Ayush and I'm an AI  enthusiast learning about ML, DL, LLMs ,etc</h2>
-
+<h2 align="left">Hi there!👋</h2>
+<p align="left"> Myself Ayush and I'm an AI  enthusiast learning about ML, DL, LLMs ,etc</p>
 ###
 
 <!-- <div align="center">
